@@ -1,4 +1,4 @@
-# Git Commands
+# Git commands
 
 - pwd : shows the current directory
 - ls : lists files and folders
