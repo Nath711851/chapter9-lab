@@ -10,4 +10,4 @@ To practice shell commands, Git initialization, status checking, staging, and co
 
 
 ## Reflection
-Git helps track changes without creating many duplicate filenames.
+Git helps track changes without creating many duplicate filenames or anything else.
